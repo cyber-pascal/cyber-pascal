@@ -1,0 +1,3 @@
+# Personal/local files — not part of the public profile repo
+*.pdf
+.DS_Store
