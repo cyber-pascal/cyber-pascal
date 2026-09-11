@@ -91,10 +91,8 @@ I hold the **Google IT Support Professional Certificate** and the **Google Cyber
 ### Currently Building
 
 - 🎓 Studying in the **Masterschool Cybersecurity Training Program** (Sept 2025 – Nov 2026) and working toward **CompTIA Security+**
-- 📝 Finishing my **MSIT Capstone Cybersecurity Project**
-- 🔧 Building a **Pwnagotchi** for hands-on wireless security research (educational purposes)
-
-Repositories for both projects are in progress and will be published here soon.
+- 📝 [MSIT Cybersecurity Capstone](https://github.com/cyber-pascal/capstone-project) — a network security design/build/plan/implement project for a fictional law-firm client (Proxmox, pfSense, Wazuh, Suricata)
+- 🔧 [Pwnagotchi Build](https://github.com/cyber-pascal/pwnagotchi) — hands-on wireless security research hardware (educational purposes)
 
 ---
 
