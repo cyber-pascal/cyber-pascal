@@ -71,8 +71,8 @@ I hold the **Google IT Support Professional Certificate** and the **Google Cyber
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cyber-pascal&show_icons=true&theme=default&hide_title=false&count_private=true" alt="Pascal's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-pascal&layout=compact&hide_border=false" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-lake-five-26.vercel.app/api?username=cyber-pascal&show_icons=true&theme=default&hide_title=false&count_private=true" alt="Pascal's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-lake-five-26.vercel.app/api/top-langs/?username=cyber-pascal&layout=compact&hide_border=false" alt="Top languages" />
 </p>
 
 <p align="center">
