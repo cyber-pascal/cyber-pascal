@@ -1,4 +1,4 @@
-<h1 align="center">Pascal Rau</h1>
+<h1 align="center">Hi, I'm Pascal 👋🏾</h1>
 <p align="center">
   <b>Jr. Cybersecurity Analyst</b> — Penetration Testing & Threat Detection | Vulnerability Assessment
 </p>
