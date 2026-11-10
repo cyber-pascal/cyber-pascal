@@ -18,7 +18,7 @@
 
 Junior Cybersecurity Analyst (SOC / blue team) based in Hamburg, Germany, with 7+ years in EASA Part-145 aviation maintenance, manufacturing and technical training, where audits, defect reporting and documented process control were daily work.
 
-I completed the Masterschool Cybersecurity Training Program (certificate received 11/2026) and built a segmented network with Wazuh and Suricata detection, custom rules and alerts mapped to MITRE ATT&CK in my capstone project. I then completed an internship in passive web application security and vulnerability ticket triage.
+I completed the Masterschool Cybersecurity Bootcamp (specialisation: Security Operations Center Analysis; certificate received 11/2026) and built a segmented network with Wazuh and Suricata detection, custom rules and alerts mapped to MITRE ATT&CK in my capstone project. I then completed an internship in passive web application security and vulnerability ticket triage.
 
 Preparing for **CompTIA Security+** (planned by 26.12.2026). Looking for a Junior SOC / Security Analyst role in Hamburg.
 
